@@ -23,3 +23,5 @@ Depends:
     summarytools,
     tidyverse,
     zip
+URL: https://github.com/marleen101/Statistiek.VU
+BugReports: https://github.com/marleen101/Statistiek.VU/issues
