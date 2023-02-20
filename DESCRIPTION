@@ -25,3 +25,6 @@ Depends:
     zip
 URL: https://github.com/marleen101/Statistiek.VU
 BugReports: https://github.com/marleen101/Statistiek.VU/issues
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
