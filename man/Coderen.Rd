@@ -13,5 +13,5 @@ text
 Coderen van een functie
 }
 \examples{
-coderen()
+Coderen()
 }
