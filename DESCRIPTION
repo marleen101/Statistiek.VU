@@ -19,6 +19,7 @@ Depends:
     gmodels,
     Hmisc,
     janitor,
+    lubridate,
     QuantPsyc,
     rio,
     sjlabelled,
