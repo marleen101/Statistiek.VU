@@ -2,7 +2,7 @@
 #'
 #' @return text
 #' @export
-#' @import car corrplot DescTools dplyr expss ggplot2 gmodels janitor rio sjlabelled summarytools tidyverse zip Hmisc QuantPsyc lubridate
+#' @import car corrplot correlation DescTools dplyr expss ggplot2 gmodels janitor rio sjlabelled summarytools tidyverse zip Hmisc QuantPsyc lubridate
 #' @examples
 #' pack()
 pack <- function() {
