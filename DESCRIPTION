@@ -1,8 +1,8 @@
 Package: Statistiek.VU
 Type: Package
 Title: Het leven makkelijker maken voor statistiek
-Version: 0.1.1
-Author: person("Marleen", "Wotling", email = "m.g.wolting@studnet.vu.nl", role = c( "aut", "cre"))
+Version: 0.1.3
+Author: person("Marleen", "Wotling", email = "m.g.wolting@student.vu.nl", role = c( "aut", "cre"))
 Maintainer: Marleen Wolting <m.g.wolting@student.vu.nl>
 Description: Een package die je helpt met R te werken voor statistiek op de VU. 
 License: MIT + file LICENSE
@@ -17,6 +17,7 @@ Config/testthat/edition: 3
 Depends: 
     car,
     corrplot,
+    correlation, 
     DescTools,
     dplyr,
     expss,
