@@ -6,5 +6,5 @@
 #' @examples
 #' pack()
 pack <- function() {
-  print("meow")
+  print("")
   }
